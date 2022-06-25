@@ -1,0 +1,12 @@
+*.cpp                     text    eol=crlf
+*.dep                     text    eol=crlf
+*.dsp                     text    eol=crlf
+*.dsw                     text    eol=crlf
+*.mak                     text    eol=crlf
+*.manifest                text    eol=crlf
+*.txt                     text    eol=crlf
+*.h                       text    eol=crlf
+
+*.md                      text    eol=crlf
+README.md                         eol=crlf
+
